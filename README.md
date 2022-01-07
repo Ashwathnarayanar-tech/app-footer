@@ -26,7 +26,7 @@ App Footer is useful while adding a footer to your store. User can customise the
 | ------------ |  --------------------------------------------------------------------------------------------------------------------------------------------- | 
 | app-footer      |   ![image](https://user-images.githubusercontent.com/93201110/148353803-f3e867d2-4fe0-4166-94be-c9aa271df4c4.png) Enables you to build the Footer.            |
 
-5. On the desire store page add the block to display the footer app. Take bellow example:
+4. On the desire store page add the block to display the footer app. Take bellow example:
 
 ![image](https://user-images.githubusercontent.com/93201110/148354627-feaa5e1d-0173-45a7-b899-0e21d5888c92.png)
 
