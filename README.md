@@ -7,7 +7,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-App Footer is useful while adding a footer to your store. User can customise the app as per their prefrence.
+App Footer is useful while adding a footer to your store. User can customise the app as per their preference.
 
 ![image](https://user-images.githubusercontent.com/93201110/148345876-251616f1-7dc6-4a52-b04c-7a1500fb58f0.png)
 
@@ -36,9 +36,9 @@ Check all props to configure your footer in the table below:
 
 | Prop name    | Type            | Description    | Default value                                                                                                                               |
 | ------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | 
-| title      | array       | List of titles(headers) for your contents (Example: 'Products', 'Buying' ect. from above reference image)      | undefined     |
-| column(n), url | array       | 1. column(n): List of contents to be displayed on your footer (Example: column1, column2.... ect can be used for number of columns required) 2. URL for each content in the list. For reference:  ![image](https://user-images.githubusercontent.com/93201110/148360912-85ed026e-d114-456b-b89f-5aee6760b8f4.png)  | undefined     |
-| imageURL      | array       | List of image URL's for displaying social icon images or any other images as per user prefrence       | undefined     |
+| title      | array       | Text to show above of list of links (Example: 'Products', 'Buying' ect. from above reference image)      | undefined     |
+| column(n), url | array       | 1. column(n): List of links to be displayed on your footer (Example: column1, column2.... ect can be used for number of columns for links required) 2. Used to define links URL. For reference:  ![image](https://user-images.githubusercontent.com/93201110/148360912-85ed026e-d114-456b-b89f-5aee6760b8f4.png)  | undefined     |
+| imageURL      | array       | List of image URL's for displaying social icon images or any other images as per user preference       | undefined     |
 | socailLinks      | array       |  List of URL's to link your images(social icon)        | undefined     |
 | copyright      | string       |  Copyright string for your footer         | undefined     |
 | disclamer      | string       |  Defines the disclamer or any string content for your footer         | undefined     |
