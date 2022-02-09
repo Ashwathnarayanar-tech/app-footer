@@ -1,9 +1,9 @@
 {
   "vendor": "echidna",
-  "name": "Footer",
-  "version": "0.0.1",
-  "title": "Footer",
-  "description": "Footer",
+  "name": "footer",
+  "version": "0.0.2",
+  "title": "footer",
+  "description": "footer",
   "builders": {
     "assets": "0.x",
     "styles": "2.x",
